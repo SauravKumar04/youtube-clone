@@ -2,38 +2,39 @@ YouTube Clone - React JS Project
 🔗 Live Demo: youtube-clone-iota-wine.vercel.app
 🔗 GitHub Repo: https://github.com/SauravKumar04/youtube-clone
 
-📌 Project Overview
-YouTube Clone is a fully functional front-end replica of YouTube, built using React JS, CSS, and the YouTube Data API v3. It offers a seamless user interface similar to YouTube’s video streaming platform, allowing users to:
+# YouTube Clone - React JS Project
 
-Browse trending videos
+## Overview
 
-Watch videos via embedded players
+YouTube Clone is a fully functional front-end replica of YouTube, built with React JS, CSS, and the YouTube Data API v3.  
+This project allows users to browse trending videos, watch videos with detailed information, view channels, and read comments — all in a smooth and responsive UI.
 
-View channel details and video statistics
+---
 
-Read comments
+## Features
 
-Navigate between pages using React Router
+- React Router based routing with Home and Video pages
+- Displays popular videos by category using YouTube API
+- Embedded video player with video stats, likes, and comments
+- Channel details and subscriber count
+- Comments section showing top comments for videos
+- Responsive Navbar and Sidebar for easy navigation
 
-🛠️ Technologies Used
-React JS -	Core framework for building UI
-React Router -	Handles page navigation
-CSS -	Custom styling for all UI elements
-YouTube API -	Fetches live video, channel, and comment data
-Moment.js -	Converts publish dates to “time ago” format
+---
 
-🚀 How to Run Locally
-git clone https://github.com/SauravKumar04/youtube-clone.git
-cd youtube-clone
-npm install
-npm start
-⚠️ Replace the API_KEY in data.js with your own key from Google Developers Console
+## Technologies Used
 
-📌 Future Enhancements (Ideas)
-Implement dark/light mode
-Add search functionality
-Add user authentication (e.g., Firebase)
-Implement pagination and loading spinners
+- React JS
+- React Router
+- YouTube Data API v3
+- CSS for styling
+- Moment.js for date formatting
+
+---
+
+
+
+
 
 <img width="1435" alt="Screenshot 2025-06-09 at 8 53 07 AM" src="https://github.com/user-attachments/assets/4436f366-caee-4ada-b61a-8c71809687e1" />
 <img width="1440" alt="Screenshot 2025-06-09 at 8 53 39 AM" src="https://github.com/user-attachments/assets/f0f21b9b-6ced-4d60-a3e1-fd27a851698e" />
